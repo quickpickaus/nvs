@@ -1,7 +1,7 @@
 {
   "android": {
     "playstore": "https://play.google.com/store",
-    "version": 1,
+    "version": 0,
     "active": true
   }
 }
